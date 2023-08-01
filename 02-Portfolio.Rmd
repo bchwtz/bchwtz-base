@@ -2,43 +2,50 @@
 
 ## Bachelor
 
-Campus Experiments
+*Campus Experiments*
+
 - Dokumentation (50%)
 - Präsentation (50%)
 
-Data Driven Business
+*Data Driven Business*
+
 - Dokumentation (50%)
 - Präsentation (50%)
 
-Statistical Modeling
+*Statistical Modeling*
+
 - Präsentation (30%)
 - Fallstudie (70%)
 
+
 ## Master
 
-Programmierung für statistische Datenanalyse
+*Programmierung für statistische Datenanalyse*
 
 - Implementierung (50%)
 - Fallstudie (50%)
 
-Datenanalyse in Big Data
-* Präsentation (50%)
-* Fallstudie (50%)
+*Datenanalyse in Big Data*
+- Präsentation (50%)
+- Fallstudie (50%)
 
-Prädiktive Analytik
+*Prädiktive Analytik*
 
-* Implementierung (50%)
-* Fallstudie (50%)
+- Implementierung (50%)
+- Fallstudie (50%)
 
-Writing for Data Science and Engineering
+*Writing for Data Science and Engineering*
+
 - Research Proposal (30%)
 - Literature Review (50%)
 - Peer-Review Report (20%)
 
-Big Data Anwendungsfälle
+*Big Data Anwendungsfälle*
+
 - Dokumentation (10%)
 - Fallstudie (90%)
 
-Data Science Anwendungsfälle
+*Data Science Anwendungsfälle*
+
 - Dokumentation (10%)
 - Fallstudie (90%)
