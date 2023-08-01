@@ -17,16 +17,18 @@ Statistical Modeling
 ## Master
 
 Programmierung für statistische Datenanalyse
+
 - Implementierung (50%)
 - Fallstudie (50%)
 
 Datenanalyse in Big Data
-- Präsentation (50%)
-- Fallstudie (50%)
+* Präsentation (50%)
+* Fallstudie (50%)
 
 Prädiktive Analytik
-- Implementierung (50%)
-- Fallstudie (50%)
+
+* Implementierung (50%)
+* Fallstudie (50%)
 
 Writing for Data Science and Engineering
 - Research Proposal (30%)
