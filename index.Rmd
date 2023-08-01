@@ -36,6 +36,6 @@ knitr::opts_chunk$set(echo = TRUE, fig.align = "center")
 knitr::knit_hooks$set(inline=inline_hook)
 ```
 
-Herzlich Willkommen 
+Herzlich Willkommen
 
 Infoseite Prof. Buchwitz
