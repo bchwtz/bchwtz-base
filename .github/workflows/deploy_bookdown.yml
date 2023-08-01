@@ -3,7 +3,7 @@ on:
      branches:
        - main
 
-name: Render and deploy GitBook
+name: Render and deploy GitBook 
 
 env:
       GITHUB_PAT: ${{ secrets.GH_PAT }}
