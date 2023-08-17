@@ -2,3 +2,4 @@ grundlagen
 portfolioprüfungen
 bachelor
 master
+korrekturkürzel
