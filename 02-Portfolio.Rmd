@@ -26,6 +26,12 @@
 - Fallstudie (50%)
 
 *Datenanalyse in Big Data*
+
+- Präsentation (50%)
+- Fallstudie (50%)
+
+*Datenbanken für Big Data*
+
 - Präsentation (50%)
 - Fallstudie (50%)
 
