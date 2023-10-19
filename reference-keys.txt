@@ -10,3 +10,5 @@ präsentation
 frei
 data-skills
 datacamp
+fhswf-r-package
+info
