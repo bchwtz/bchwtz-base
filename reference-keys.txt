@@ -3,3 +3,8 @@ portfolioprüfungen
 bachelor
 master
 korrekturkürzel
+assignments
+paper
+implementierung
+präsentation
+frei
