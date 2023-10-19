@@ -2,12 +2,18 @@
 
 ## Bachelor
 
-*Campus Experiments*
+*Statistics*
+- X
+
+*R Programming*
+- X
+
+*Campus Experiments* (WPM)
 
 - Dokumentation (50%)
 - Präsentation (50%)
 
-*Data Driven Business*
+*Data Driven Business* (WPM)
 
 - Dokumentation (50%)
 - Präsentation (50%)
@@ -17,6 +23,8 @@
 - Präsentation (30%)
 - Fallstudie (70%)
 
+*Forecasting and Control*
+- X 
 
 ## Master
 
@@ -40,7 +48,7 @@
 - Implementierung (50%)
 - Fallstudie (50%)
 
-*Writing for Data Science and Engineering*
+*Writing for Data Science and Engineering* (WPM)
 
 - Research Proposal (30%)
 - Literature Review (50%)
@@ -51,7 +59,7 @@
 - Dokumentation (10%)
 - Fallstudie (90%)
 
-*Data Science Anwendungsfälle*
+*Data Science Anwendungsfälle* (WPM)
 
 - Dokumentation (10%)
 - Fallstudie (90%)
