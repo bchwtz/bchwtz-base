@@ -8,3 +8,5 @@ paper
 implementierung
 präsentation
 frei
+data-skills
+data-camp
