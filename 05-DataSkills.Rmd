@@ -1,5 +1,10 @@
 # Data Skills
 
+Zur Unterstützung der Selbstlernphasen im Studium und zum selbstständigen Aneignen von Kompetenzen zur Datenverarbeitung, u.a. in R oder Python stehen die folgenden zusätzlichen Angebote bereit. 
+
 ## Datacamp 
 
-Information will be added shortly.
+Den kostenfreien Zugang zum kompletten Inhlat der Lernplattform Datacamp.com erhalten Sie  **ausschließlich** mit einer `@fh-swf.de`-Adresse und nur über den folgenden Zugangslink. Sie treten mit diesem Link **für ein Semester** einem virtuellen Datacamp-Kurs bei. Die Mitgliedschaft in diesem Kurs muss **jedes Semester** erneuert werden.
+
+[Datacamp FHSWF Data Skills [WS 23/24]](https://www.datacamp.com/groups/shared_links/7c11de154f88ef1379261fd86cd4a0bd636b96d504ba807297976cfe511fce19)
+

@@ -15,6 +15,7 @@
 
 *Data Driven Business* (WPM)
 
+Moodle: 
 - Dokumentation (50%)
 - Präsentation (50%)
 
@@ -63,3 +64,6 @@
 
 - Dokumentation (10%)
 - Fallstudie (90%)
+
+## Zusatz
+
