@@ -2,6 +2,7 @@ grundlagen
 portfolioprüfungen
 bachelor
 master
+zusatz
 korrekturkürzel
 assignments
 paper
