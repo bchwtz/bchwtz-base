@@ -6,8 +6,12 @@ zusatz
 korrekturkürzel
 assignments
 paper
-implementierung
 präsentation
+typ-wissensvermittlung-k
+typ-ergebnisvorstellung-r
+tool-powerpoint-p
+tool-markdown-m
+implementierung
 frei
 data-skills
 datacamp
