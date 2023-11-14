@@ -14,8 +14,21 @@ Diese allgemeinen Prinzipien wissenschaftlicher Arbeit sind formatübergreifend 
 
 Nutzung des FHSWF RMarkdown Templates pflicht.
 
-## Implementierung
 
 ## Präsentation
+
+### Typ: Wissensvermittlung (K)
+
+### Typ: Ergebnisvorstellung (R)
+
+Unabhängig vom genauen Typ der Präsentation ist ein agemessenes Format zu wählen, dass allen wissenschaftlichen Belangen (z.B. Angabe von Quellen) ermöglicht. 
+
+### Tool: PowerPoint (P)
+
+### Tool: Markdown (M)
+
+
+## Implementierung
+
 
 ## Frei
