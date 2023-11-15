@@ -8,7 +8,7 @@ Abgabeaufgaben sind wissenschaftliche Dokumente, deren Einreichung in einer spez
 - strikte Ehrlichkeit im Hinblick auf die Beiträge von Partnern, Konkurrenten und
 Vorgängern zu wahren.
 
-Diese allgemeinen Prinzipien wissenschaftlicher Arbeit sind formatübergreifend und jeder Zeit zu beachten. Die nachfolgende Auflistung geht spezifischer auf die die Besonderheiten der möglichen Abgabeformate ein.
+Diese allgemeinen Prinzipien wissenschaftlicher Arbeit sind formatübergreifend und jeder Zeit zu beachten. Die nachfolgende Auflistung geht spezifischer auf die Besonderheiten der möglichen Abgabeformate ein.
 
 ## Paper
 
@@ -21,9 +21,11 @@ Nutzung des FHSWF RMarkdown Templates pflicht.
 
 ### Typ: Ergebnisvorstellung (R)
 
-Unabhängig vom genauen Typ der Präsentation ist ein agemessenes Format zu wählen, dass allen wissenschaftlichen Belangen (z.B. Angabe von Quellen) ermöglicht. 
+Unabhängig vom genauen Typ der Präsentation ist ein angemessenes Format zu wählen, dass allen wissenschaftlichen Belangen (z.B. Angabe von Quellen) ermöglicht. 
 
 ### Tool: PowerPoint (P)
+
+Bitte nutzen sie die folgende Powerpoint Vorlage für die Erstellung der Präsentation.
 
 ### Tool: Markdown (M)
 
