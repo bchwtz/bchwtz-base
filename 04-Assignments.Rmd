@@ -12,10 +12,13 @@ Diese allgemeinen Prinzipien wissenschaftlicher Arbeit sind formatübergreifend 
 
 ## Paper
 
-Nutzung des FHSWF RMarkdown Templates pflicht.
+Paper sind wissenschaftliche Dokumente, die üblicherweise den Prozess zur Erzielung eines Erkenntnisgewinns transparent und in der Form darstellen, dass die erzielten Resultate für den fachlichen Leser nachvollziehbar sind. 
 
+- **FHSWF Markdown Template:** Das FHSWF R Package enthält die Formatvorlage `fhswf::seminarpaper`, die für die Erstellung von Hausarbeiten, Projektarbeiten oder Abschlussarbeiten verwendet werden kann. Text kann in diesem Template im Markdown Format integriert und formatiert werden, alle Erweiterungen des [R Markdown](https://rmarkdown.rstudio.com/) Dialektes werden unterstützt. Diese Vorlage ist zudem voll \LaTeX kompatibel. Im Unterschied zu reinem \LaTeX erlaubt dieses Template die Integration von beliebigem Programmcode (R, Python, C, ...) der beim Erstellen des PDFs ausgeführt werden kann. Programmcode wird automatisch ausgeführt und deren Ergebnisse (Konsolenoutput, Tabellen, Grafiken) können im erstellten Dokument automatisch integriert werden, sodass diese nicht separat verwaltet werden müssen.
+- **\LaTeX:** 
 
 ## Präsentation
+
 
 ### Typ: Wissensvermittlung (K)
 
