@@ -7,8 +7,6 @@ korrekturkürzel
 assignments
 paper
 präsentation
-typ-wissensvermittlung-k
-typ-ergebnisvorstellung-r
 tool-powerpoint-p
 tool-markdown-m
 implementierung
