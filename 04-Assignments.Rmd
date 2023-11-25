@@ -23,21 +23,16 @@ Die Bewertungsgrundlage für die Abgabe ist **ein** erzeugtes PDF Dokument, dass
 
 ## Präsentation
 
-MECE
-Pyramide
+Akademische Präsentationen können in wissensvermittelnden Präsentationenen und Präsentationenen zur Ergebnisvorstellung unterschieden werden. 
 
-Wissensvermittlung (K)
-Ergebnisvorstellung (R)
+- **MECE:** Der Aufbau der einzlenen Botschaften muss dem MECE-Prinzip folgen (mutually exclusive and collectively exhaustive).
 
+- **Pyramid Principle:** Der Aufbau einzelner Kommunikationsschritte muss dem pyramiden Prinzip (Barbara Minto) folgen, sodass die wichtigste Nachricht zuerst kommuniziert wird ("early punchline"). 
 
-Unabhängig vom genauen Typ der Präsentation ist ein angemessenes Format zu wählen, dass allen wissenschaftlichen Belangen (z.B. Angabe von Quellen) ermöglicht. 
+Unabhängig vom genauen Typ der Präsentation ist ein angemessenes Format zu wählen, dass allen wissenschaftlichen Belangen (z.B. Angabe von Quellen) ermöglicht. Bitte nutzen Sie für die Erstellung der Präsentation die folgenden Vorlagen.
 
-### Tool: PowerPoint (P)
-
-Bitte nutzen sie die folgende Powerpoint Vorlage für die Erstellung der Präsentation.
-
-### Tool: Markdown (M)
-
+- [Powerpoint Vorlage](./data/bchwtz-slidemaster.pptx)
+- *R-Markdown*: Die Markdown Vorlage befindet sich im `fhswf` R-Package als `fhswf::presentation`.
 
 ## Implementierung
 
