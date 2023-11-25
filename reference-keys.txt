@@ -7,8 +7,6 @@ korrekturkürzel
 assignments
 paper
 präsentation
-tool-powerpoint-p
-tool-markdown-m
 implementierung
 frei
 data-skills
