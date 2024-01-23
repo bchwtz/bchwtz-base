@@ -3,10 +3,13 @@
 ## Bachelor
 
 *Statistics*
+
 - X
 
 *R Programming*
-- X
+
+- Implementierung (50%)
+- Fallstudie (50%)
 
 *Campus Experiments* (WPM)
 
@@ -15,7 +18,6 @@
 
 *Data Driven Business* (WPM)
 
-Moodle: 
 - Dokumentation (50%)
 - Präsentation (50%)
 
@@ -25,6 +27,7 @@ Moodle:
 - Fallstudie (70%)
 
 *Forecasting and Control*
+
 - X 
 
 ## Master
