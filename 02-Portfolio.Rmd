@@ -8,46 +8,42 @@ Programmierung für statistische Datenanalyse
 
 Programming for statistical Data Analysis
 
-Modulverantwortung: Prof. Dr. Benjamin Buchwitz
-
-Dozent: xx
-
-+----------------------------------------+----------------------------+
-| **Prüfungsnummer**                     | xxx                        |
-+----------------------------------------+----------------------------+
-| **Sprache**                            | Deutsch                    |
-+----------------------------------------+----------------------------+
-| **ECTS**                               | 6                          |
-+----------------------------------------+----------------------------+
-| **Workload / Kontakt / Selbststudium** | 180 h / 13 h / 167 h       |
-+----------------------------------------+----------------------------+
-| **SWS**                                | 4                          |
-+----------------------------------------+----------------------------+
-| **Semester**                           | Winter                     |
-+----------------------------------------+----------------------------+
-| **Lehrform**                           | Vorlesung, Übung           |
-+----------------------------------------+----------------------------+
-| **Gruppengröße**                       | 20                         |
-+----------------------------------------+----------------------------+
-| **Studiengang**                        | Data Science (Master)      |
-+----------------------------------------+----------------------------+
-| **Teilnahmevoraussetzung**             | \-                         |
-+----------------------------------------+----------------------------+
-| **Prüfungsvorleistung**                | \-                         |
-+----------------------------------------+----------------------------+
-| **Prüfungsform**                       | Portfolio                  |
-|                                        |                            |
-|                                        | -   Implementierung (50%)  |
-|                                        | -   Fallstudie (50%)       |
-+----------------------------------------+----------------------------+
++----------------------------------------+-----------------------------+
+| **Prüfungsnummer**                     | xxx                         |
++----------------------------------------+-----------------------------+
+| **Modulverantwortung**                 | Prof. Dr. Benjamin Buchwitz |
++----------------------------------------+-----------------------------+
+| **Sprache**                            | Deutsch                     |
++----------------------------------------+-----------------------------+
+| **ECTS**                               | 6                           |
++----------------------------------------+-----------------------------+
+| **Workload / Kontakt / Selbststudium** | 180 h / 13 h / 167 h        |
++----------------------------------------+-----------------------------+
+| **SWS**                                | 4                           |
++----------------------------------------+-----------------------------+
+| **Semester**                           | Winter                      |
++----------------------------------------+-----------------------------+
+| **Lehrform**                           | Vorlesung, Übung            |
++----------------------------------------+-----------------------------+
+| **Gruppengröße**                       | 20                          |
++----------------------------------------+-----------------------------+
+| **Studiengang**                        | Data Science (Master)       |
++----------------------------------------+-----------------------------+
+| **Teilnahmevoraussetzung**             | \-                          |
++----------------------------------------+-----------------------------+
+| **Prüfungsvorleistung**                | \-                          |
++----------------------------------------+-----------------------------+
+| **Prüfungsform**                       | Portfolio                   |
+|                                        |                             |
+|                                        | -   Implementierung (50%)   |
+|                                        | -   Fallstudie (50%)        |
++----------------------------------------+-----------------------------+
 
 **Lernergebnisse:** Die Studierenden sind in der Lage, statistische Datenanalysen in der Programmierumgebung R durchzuführen. Sie haben profunde R-Programmierkenntnisse und können die grundlegenden Datenstrukturen anwendungsgerecht und effizient einsetzen. Sie können weiterhin inhomogene mehrdimensionale Datenbestände auswerten und visualisieren. Sie sind außerdem sowohl mit „Tidyverse" als auch mit weiterführenden objektorientierten und funktionalen Konzepten der Programmiersprache R vertraut.
 
 **Inhalte:** In diesem Modul wird ausführlich auf die frei verfügbare (open source) Programmierumgebung R eingegangen. Kern dieser Programmierumgebung ist die Skriptsprache R, die speziell für statistische Berechnungen und zur Datenvisualisierung entwickelt wurde. Viele gängige statistische Methoden, Analyseprozesse und Visualisierungen lassen sich mit einfachen Mitteln in R durchführen. Zahlreiche Erweiterungen existieren für die unterschiedlichsten Anwendungsgebiete in Form von Zusatzpaketen. R hat sich in der Wirtschaft und auch in der Wissenschaft in den letzten Jahren als eine der Standardsprachen im Bereich der statistischen Datenanalyse und Visualisierung etabliert. In diesem Modul wird zuerst eine solide Einführung in die Sprache R gegeben. Insbesondere werden die grundlegenden Datenstrukturen aus der Kernsprache wie Vektor, Matrix, Array, List und Data Frame in R ausführlich behandelt und es wird gezeigt, wie sie effizient und flexibel eingesetzt werden können. Darauf aufbauend wird in „Tidyverse" eingeführt. Tidyverse ist eine Sammlung von aufeinander abgestimmten R-Paketen, die es ermöglichen, in einer systematischen Weise viele Problemstellungen aus den Bereichen Datenaufbereitung und Datenanalyse effektiv zu lösen. Einen zusätzlichen Themenschwerpunkt bilden unterschiedliche Visualisierungsmöglichkeiten multidimensionaler Datenbestände. Überdies werden weiterführende Sprachkonzepte in R untersucht. Eingegangen wird hierbei sowohl auf objektorientierte als auch auf funktionale Ansätze in R.
 
 **Literatur:**
-
-**Prüfungsleistung:**
 
 ## Bachelor
 
