@@ -1,5 +1,7 @@
 grundlagen
 portfolioprüfungen
+modulbeschreibungen
+programmierung-für-statistische-datenanalyse
 bachelor
 master
 zusatz
