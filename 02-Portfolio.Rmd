@@ -2,20 +2,29 @@
 
 ## Modulbeschreibungen
 
-| Col1           | Col2    |
-|----------------|---------|
-| Prüfungsnummer | xxx     |
-| Sprache        | Deutsch |
-| Workload       |         |
-| ECTS           |         |
-| SWS            | 4       |
-|                |         |
-| Semester       |         |
-|                |         |
+### RPRG
 
-### Programmierung für statistische Datenanalyse
+Programmierung für statistische Datenanalyse
 
-Modulverantwortlicher: Prof. Dr. Benjamin Buchwitz
+Programming for statistical Data Analysis
+
+Modulverantwortung: Prof. Dr. Benjamin Buchwitz
+
+Dozent: xx
+
+| Col1                               | Col2                  |
+|------------------------------------|-----------------------|
+| Prüfungsnummer                     | xxx                   |
+| Sprache                            | Deutsch               |
+| ECTS                               | 6                     |
+| Workload / Kontakt / Selbststudium | 180 h / 13 h / 167 h  |
+| SWS                                | 4                     |
+| Semester                           | Winter                |
+| Lehrveranstaltungsart              | Vorlesung, Übung      |
+| Gruppengröße                       | 20                    |
+| Studiengang                        | Data Science (Master) |
+|                                    |                       |
+|                                    |                       |
 
 **Lernergebnisse:** Die Studierenden sind in der Lage, statistische Datenanalysen in der Programmierumgebung R durchzuführen. Sie haben profunde R-Programmierkenntnisse und können die grundlegenden Datenstrukturen anwendungsgerecht und effizient einsetzen. Sie können weiterhin inhomogene mehrdimensionale Datenbestände auswerten und visualisieren. Sie sind außerdem sowohl mit „Tidyverse" als auch mit weiterführenden objektorientierten und funktionalen Konzepten der Programmiersprache R vertraut.
 
