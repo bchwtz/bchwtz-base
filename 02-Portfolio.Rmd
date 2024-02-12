@@ -45,6 +45,10 @@ Programming for statistical Data Analysis
 
 **Literatur:**
 
+Matloff, Norman: The Art of R Programming : A Tour of Statistical Software Design, Starch Press
+Wickham, Hadley und Grolemund, Garrett : R für Data Science : Daten importieren, bereinigen, umformen, modellieren und visualisieren, O'Reilly
+Wickham, Hadley: Advanced R, CRC Press
+
 ## Bachelor
 
 *Statistics*
