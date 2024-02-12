@@ -1,7 +1,7 @@
 grundlagen
 portfolioprüfungen
 modulbeschreibungen
-programmierung-für-statistische-datenanalyse
+rprg
 bachelor
 master
 zusatz
