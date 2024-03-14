@@ -45,9 +45,7 @@ Programming for statistical Data Analysis
 
 **Literatur:**
 
-Matloff, Norman: The Art of R Programming : A Tour of Statistical Software Design, Starch Press
-Wickham, Hadley und Grolemund, Garrett : R für Data Science : Daten importieren, bereinigen, umformen, modellieren und visualisieren, O'Reilly
-Wickham, Hadley: Advanced R, CRC Press
+Matloff, Norman: The Art of R Programming : A Tour of Statistical Software Design, Starch Press Wickham, Hadley und Grolemund, Garrett : R für Data Science : Daten importieren, bereinigen, umformen, modellieren und visualisieren, O'Reilly Wickham, Hadley: Advanced R, CRC Press
 
 ## Bachelor
 
@@ -77,7 +75,8 @@ Wickham, Hadley: Advanced R, CRC Press
 
 *Forecasting and Control*
 
--   X
+-   Implementierung (50%)
+-   Fallstudie (50%)
 
 ## Master
 
