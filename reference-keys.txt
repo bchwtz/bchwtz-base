@@ -9,6 +9,8 @@ korrekturkürzel
 assignments
 paper
 präsentation
+poster
+dataset
 implementierung
 frei
 data-skills
