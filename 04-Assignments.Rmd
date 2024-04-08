@@ -34,7 +34,18 @@ Unabhängig vom genauen Typ der Präsentation ist ein angemessenes Format zu wä
 - [Powerpoint Vorlage](./data/bchwtz-slidemaster.pptx)
 - *R-Markdown*: Die Markdown Vorlage befindet sich im `fhswf` R-Package als `fhswf::presentation`.
 
+## Poster
+
+Akademisches Poster
+
+## Dataset
+
+Datensatz für die Aufgabe. Datensatz muss Dozenten Vollständig zugänglich gemacht werden.
+
 ## Implementierung
 
+Nachvollziehbar und dokumentiert.
 
 ## Frei
+
+Keine Restriktionen. Wählen Sie ein für die Darstellung und Abgabe der Ergebnisse geeignetes Format.
