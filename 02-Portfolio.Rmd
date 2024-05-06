@@ -1,5 +1,12 @@
 # Portfolioprüfungen
 
+## Bewertungsbogen
+
+Ein generischer Bewertungsbogen für Module mit Portfolioprüfungen bestehend aus Semesterbegleitenden Abgaben (Exercises) und einer Semesterendabgabe findet sich hier:
+
+[Bewertungsvorlage Kurse EX + IMP](./data/bchwtz-XXXX-results-INTERN.xlsx)
+
+
 ## Modulbeschreibungen
 
 ### RPRG
