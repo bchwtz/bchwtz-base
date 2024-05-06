@@ -1,5 +1,6 @@
 grundlagen
 portfolioprüfungen
+bewertungsbogen
 modulbeschreibungen
 rprg
 bachelor
