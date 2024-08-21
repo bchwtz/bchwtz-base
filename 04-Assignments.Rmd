@@ -36,7 +36,10 @@ Unabhängig vom genauen Typ der Präsentation ist ein angemessenes Format zu wä
 
 ## Poster
 
-Akademisches Poster
+Für akademische Poster gelten die gleichen Grundsätze, wie für Seminar- und Abschlusarbeiten. Die folgende Präsentationsvorlage ist zu nutzen. Das Druckformat des Posters beträgt A2 (59.4cm x 84,1cm; Aufteilbar in 4x A3 Ausdrucke):
+
+- [Beispiel Poster](./data/bchwtz-postermaster.pdf)
+- [Powerpoint Vorlage](./data/bchwtz-postermaster.pptx)
 
 ## Dataset
 
