@@ -43,7 +43,7 @@ Für akademische Poster gelten die gleichen Grundsätze, wie für Seminar- und A
 
 ## Dataset
 
-Datensatz für die Aufgabe. Datensatz muss Dozenten Vollständig zugänglich gemacht werden.
+Datensatz für die Aufgabe. Datensatz muss dem Dozenten vollständig zugänglich gemacht werden.
 
 ## Implementierung
 
