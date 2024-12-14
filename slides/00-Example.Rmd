@@ -20,15 +20,7 @@ knitr::opts_chunk$set(echo=TRUE, message=FALSE, warning=FALSE, cache=TRUE,
 
 # Packages
 library(fhswf)
-library(car)
-library(fGarch)
-library(gtools)
-library(HistogramTools)
-library(ineq)
-library(kableExtra)
-library(texreg)
-library(tidyverse)
-library(vcd)
+
 ```
 
 ## Vorstellung und Kontaktdetails 
