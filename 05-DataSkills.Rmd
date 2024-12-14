@@ -4,7 +4,7 @@ Zur Unterstützung der Selbstlernphasen im Studium und zum selbstständigen Anei
 
 ## Datacamp 
 
-Den kostenfreien Zugang zum kompletten Inhlat der Lernplattform Datacamp.com erhalten Sie  **ausschließlich** mit einer `@fh-swf.de`-Adresse und nur über den folgenden Zugangslink. Sie treten mit diesem Link **für ein Semester** einem virtuellen Datacamp-Kurs bei. Die Mitgliedschaft in diesem Kurs muss periodisch, mindestens aber **jedes Semester** erneuert werden.
+Den kostenfreien Zugang zum kompletten Inhalt der Lernplattform Datacamp.com erhalten Sie  **ausschließlich** mit einer `@fh-swf.de`-Adresse und nur über den folgenden Zugangslink. Sie treten mit diesem Link **für ein Semester** einem virtuellen Datacamp-Kurs bei. Die Mitgliedschaft in diesem Kurs muss periodisch, mindestens aber **jedes Semester** erneuert werden.
 
 [Datacamp FHSWF Data Skills [2024.3]](https://www.datacamp.com/groups/shared_links/f030fbf5e5fdbf0fa6ab80930ae09b9d29f459cc36129175983ec9429bde36e4)
 

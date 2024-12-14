@@ -10,6 +10,8 @@ Vorgängern zu wahren.
 
 Diese allgemeinen Prinzipien wissenschaftlicher Arbeit sind formatübergreifend und jeder Zeit zu beachten. Die nachfolgende Auflistung geht spezifischer auf die Besonderheiten der möglichen Abgabeformate ein.
 
+**Bearbeitungsmodus:** Abgaben können grundsäztlich in Einzelarbeit (Modus: Individuell) erarbeitet werden oder durch mehrere Autoren erstellt werden (Modus: Gruppe). Bei Gruppenarbeiten müssen alle beteiligten Autoren inklusive Matrikelnummer im Dokument benannt sein. Die Kommunikation  mit dem Dozenten übernimmt ein/e durch alle Mitglieder der Gruppe gewählte/r Gruppensprecher/in, die/der die Abgabe auch formal einreicht. Die Abgabe ist durch ein *Statement of Contribution* zu ergänzen, das Art und Anteil eines jeden Gruppenmitgliedes an der Abgabe listet. 
+
 ## Paper
 
 Paper sind wissenschaftliche Dokumente, die üblicherweise den Prozess zur Erzielung eines Erkenntnisgewinns transparent und in der Form darstellen, dass die erzielten Resultate für den fachlichen Leser nachvollziehbar sind. 
@@ -25,7 +27,7 @@ Die Bewertungsgrundlage für die Abgabe ist **ein** erzeugtes PDF Dokument, dass
 
 Akademische Präsentationen können in wissensvermittelnden Präsentationenen und Präsentationenen zur Ergebnisvorstellung unterschieden werden. 
 
-- **MECE:** Der Aufbau der einzlenen Botschaften muss dem MECE-Prinzip folgen (mutually exclusive and collectively exhaustive).
+- **MECE:** Der Aufbau der einzelnen Botschaften muss dem MECE-Prinzip folgen (mutually exclusive and collectively exhaustive).
 
 - **Pyramid Principle:** Der Aufbau einzelner Kommunikationsschritte muss dem pyramiden Prinzip (Barbara Minto) folgen, sodass die wichtigste Nachricht zuerst kommuniziert wird ("early punchline"). 
 
@@ -43,7 +45,15 @@ Für akademische Poster gelten die gleichen Grundsätze, wie für Seminar- und A
 
 ## Dataset
 
-Datensatz für die Aufgabe. Datensatz muss dem Dozenten vollständig zugänglich gemacht werden.
+Jeder einzureichende Datensatz besteht mindestens aus den folgenden **drei** Bestandteilen:
+
+1) **Datendatei:** Die eigentliche Datendatei muss in einer maschinenlesbaren, dokumentierten und aufbereiteten Form bereitgestellt werden.  Dabei ist nicht relevant um welche genaue Art der Datei (.csv, .xlsx, .json, ...) es sich handelt, solange diese mit *üblichen* verfügbaren Mittel einlesbar ist. Sollte es sich bei den Rohdaten um ein selten verwendetes oder **exotisches** Dateiformat (z.B. Datenbankdump) handeln kann die Abgabe der Rohdaten durch ein Skript bzw. Programm ergänzt werden, das das Aufbereiten der Daten nachvollziehbar erläutert und eine (idealerweise tabellarische) geeignete Datei zur weiteren Analyse erzeugt. Das bereitstellen eines Links oder der Verweis auf ein Repository ist ungenügend.
+
+2) **Variablenbeschreibung:** Alle in der Datendatei enthaltenen Variablen müssen hinsichtlich ihres Inhaltes und ihrer Bedeutung nachvollziehbar beschrieben sein. Eine vollständig korrekte Beschreibung beinhaltet zudem etwaige Erfassungs- bzw. Geltungszeiträume der vermerkten Größen und benennt die zugehörigen Einheiten.
+
+3) **Kurzskizze des Untersuchungsvorhaben:** Zur Prüfung der Eignung des eingereichten Datensatzes ist dieser durch eine kurze Skizze des Analysevorhabens (in Form einer potenziellen Analysegleichung oder einer textuellen Skizze der hypothethisierten Abhängigkeiten) zu ergänzen. Die Kurskizze kann den Charakter eines kurzen, auf die eigentliche Datenanalyse beschränkten Exposées aufweisen.
+
+Um alle Rechnungen und Interpretationen nachvollziehen zu können, muss jeder Datensatz dem Dozenten vollständig zugänglich gemacht werden. Sollten Sie einen Datensatz verwenden wollen, der nicht oder nur eingeschränkt  mit dem Dozenten geteilt werden kann, eigenet dieser sich nicht für Bearbeitung einer Abgabeaufgabe. Natürlich können Sie jeden verwendeten Datensatz anonymisieren, sofern die Interpretierbarkeit der Ergebnisse dadurch nicht eingeschränkt oder unterbunden wird. 
 
 ## Implementierung
 
@@ -52,3 +62,12 @@ Nachvollziehbar und dokumentiert.
 ## Frei
 
 Keine Restriktionen. Wählen Sie ein für die Darstellung und Abgabe der Ergebnisse geeignetes Format.
+
+## Gruppenarbeiten
+
+
+
+
+
+
+
