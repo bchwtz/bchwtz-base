@@ -2,7 +2,7 @@ on:
   schedule:
      - cron: "*/5 * * * *"
 
-name: Render and deploy GitBook
+name: Scheduled: Render and deploy GitBook
 
 env:
       GITHUB_PAT: ${{ secrets.GH_PAT }}
