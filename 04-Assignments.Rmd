@@ -43,6 +43,11 @@ Für akademische Poster gelten die gleichen Grundsätze, wie für Seminar- und A
 - [Beispiel Poster](./data/bchwtz-postermaster.pdf)
 - [Powerpoint Vorlage](./data/bchwtz-postermaster.pptx)
 
+Ein beispielhafter Evaluationsbogen für akademische Poster ist hier zu finden:
+
+- [Beispiel Evaluationsbogen](./data/bchwtz-posterevaluation.pdf)
+- [Word Evaluationsbogen](./data/bchwtz-posterevaluation.docx)
+
 ## Dataset
 
 Jeder einzureichende Datensatz besteht mindestens aus den folgenden **drei** Bestandteilen:
