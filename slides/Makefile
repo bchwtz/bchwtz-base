@@ -10,7 +10,7 @@ GIFTARGETS=$(SOURCES:%.Rmd=%.gif)
 %.gif: %.pdf
 		@echo "$< -> $@"
 		@mkdir -p gifs
-		@convert -delay 250 -geometry 480x360 '$<'[0-25] gifs/$@
+		@magick convert -delay 250 -geometry 480x360 '$<'[0-25] gifs/$@
 	
 default: $(TARGETS)
 
