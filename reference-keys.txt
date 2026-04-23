@@ -6,6 +6,13 @@ rprg
 bachelor
 master
 zusatz
+wissenschaftliche-arbeiten
+prozess
+themenskizze
+proposal
+durchführung-und-analyse-drafting
+tightening-und-publikation
+beispiele
 korrekturkürzel
 assignments
 paper
