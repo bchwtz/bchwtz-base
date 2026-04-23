@@ -1,4 +1,53 @@
-# Korrekturkürzel
+# Wissenschaftliche Arbeiten
+
+Abschlussarbeiten, Projektarbeiten und Seminararbeiten sind wissenschaftliche Beiträge. Genau wie publizierte wissenschaftliche Fachartikel, zielen diese darauf ab neues Wissen in die Fachgemeinschaft einzubringen und belegen so, dass der Autor wissenschaftlich Arbeiten kann. Herausragende wissenschaftliche Arbeiten enthalten nicht nur publikationswürdige Erkenntnisse, sondern bilden auch die Basis für eine Fachveröffentlichung in einem Journal oder den Proceedings einer Konferenz.
+
+## Prozess
+
+Der Prozess zur erfolgreichen Erstellung einer Wissenschaftlichen Arbeit lässt mitsamt der zentralen Schritte der Betreuung in mehrere Teilschritte unterteilen. Jeder Teilschritt schließt mit einem Kontrollpunkt, dem Qualitygate ab, an dem entschieden wird, ob die bisherigen Ergebnisse eine ausreichend hohe Qualität haben, um zur nächste Projektphase voranzuschreiten.
+
+
+### Themenskizze
+
+Im ersten Schritt wird kurz und knapp auf fünf Folien die Kernidee der wissenschaftlichen Arbeit skizziert. Neben der Bearbeitung eigener Ideen ist auch eine initiale Zuweisung eines Themengebiets möglich. Inhaltlich werden hier folgende Punkte umrissen:
+
+- Problemkontext, inklusive Relevanz für die Forschung
+- Forschungshypothese und Forschungsfrage
+- Verwandte Forschergruppen und deren Ansätze (Wissenschaftliche Community, deren Journale, Konferenzen und Key Player)
+- Lösungsansatz und anzustrebende Lösungselemente (Konzept, Werkzeug, Experiment, Validation)
+
+Qualitygate: Präsentation
+
+### Proposal
+
+Im Proposal wird die Idee der Themenskizze aufgegriffen und in Form eines ausformulierten Textes präzisiert. Inhaltlich werden im Proposal die überarbeiteten Punkte der Themenskizze aufgegriffen und mit einem vollständigen Literature Review kombiniert. Dadruch wird die Forschungshypothese und die Forschungsfrage hinsichtlich ihrer Machbarkeit überprüft und ihrer Relevanz für die Fachcommunity validiert. Das Proposal unterscheidet sich neben der Schriftform insbesondere in folgenden Punkten von der Themenskizze:
+
+- Vollständiger Literaturüberblick inkl. aus einer Gap-Analyse abgeleitete Forschungsfrage
+- Skizze der zentralen Schritte der Durchführung des Forschungsvorhabens
+- Sichergestellte Grundvoraussetzungen (Systemzugriffe, Datenzugriff, Einsatzbereitschaft technischer Systeme)
+
+Qualitygate: Anmeldung der Arbeit
+
+### Durchführung und Analyse / Drafting
+
+Optional: Proofreading
+
+Qualitygate: Submission (und ggf. Kolloquium)
+
+### Tightening und Publikation
+
+Qualitygate: Veröffentlichung
+
+
+## Beispiele
+
+Veenaas, B. and Buchwitz, B., "Benchmarking the Nurse Re-Rostering Problem: A Dataset and Instance Generator for evaluating Algorithms that handle short-term scheduling Disruptions" (2026). Hawaii International Conference on System Sciences 2026 (HICSS-59). https://hdl.handle.net/10125/111821.
+
+Hoof, T. and Buchwitz, B., "Energy Efficiency and Classification Locality: Pareto-optimal trade-offs in multi-class sensor-based Human Activity Recognition" (2024). Hawaii International Conference on System Sciences 2024 (HICSS-57). https://doi.org/10.24251/HICSS.2024.927.
+
+Giesecke, J., Buchwitz, B. and Knoche, S., "The Effect Of Dynamic And Interactive Visualizations On Judgmental Forecasts" (2023). International Symposium on Forecasting (ISF-43), Charlottesville, Virginia USA. https://isf.forecasters.org/wp-content/uploads/BookOfAbstractsISF2023.pdf.
+
+## Korrekturkürzel
 
 Kürzel     Bedeutung       
 --------   --------------   
