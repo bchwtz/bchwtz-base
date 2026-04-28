@@ -65,4 +65,5 @@ NN         Nicht Notwendig
 Z          Zitation falsch
 G/K        Groß- / Kleinschreibung
 S/P        Singular / Plural
+T          Tempus / Zeitform stimmt nicht
 ---------  -------------- 
